@@ -15,6 +15,7 @@
     float: left;
 }
 
+
 .col-xs-1 {
     width: calc((100% / 12) * 1)
 }
@@ -112,7 +113,7 @@
 }
 
 @media (min-width:768px) {
-    
+
     .col-md-1 {
         width: calc((100% / 12) * 1)
     }
