@@ -19,7 +19,6 @@
     float: left;
 }
 
-
 .col-xs-1 {
     width: calc((100% / 12) * 1)
 }
@@ -66,10 +65,6 @@
 
 .col-xs-12 {
     width: calc((100% / 12) * 12)
-}
-
-.col-xs-offset-0 {
-    margin-left: 0;
 }
 
 .col-xs-offset-1 {
